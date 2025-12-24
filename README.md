@@ -1,1 +1,1 @@
-# CUDA_programming_midterming_midterm
+# CUDA_programming_midterm
