@@ -139,4 +139,4 @@ Dưới đây là hiệu năng thực tế của phiên bản `best_gemm` sau kh
 
 Bài thực hành cho thấy sự khác biệt rõ rệt giữa lý thuyết thuật toán và thực tế phần cứng.
 1.  Với kích thước ma trận nhỏ/trung bình, **L2 Cache** và **Compiler Optimization** đóng vai trò quyết định (Naive có thể chạy rất nhanh).
-2.  Với kích thước ma trận lớn (Big Data), các kỹ thuật **Tiling** và quản lý bộ nhớ thủ công là bắt buộc để tránh nghẽn băng thông.
+2.  Với kích thước ma trận lớn, các kỹ thuật **Tiling** và quản lý bộ nhớ thủ công là bắt buộc để tránh nghẽn băng thông.
